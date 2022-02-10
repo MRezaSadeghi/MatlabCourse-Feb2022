@@ -1,8 +1,8 @@
 # MATLAB Course (Beginner)
 A place for sharing MATLAB course content and documents.
 A beginner guide for MATLAB programming\
-This course is held by [Scientific Society of Mechanical Engineering (Iran University of Science & Technology)](https://t.me/iust_ssme)\
-(Feb 202w)
+This 24-hour course is held by [Scientific Society of Mechanical Engineering (Iran University of Science & Technology)](https://t.me/iust_ssme)\
+in 12 sessions.(Feb 2022)
 
 # Main Topics
 - What is MATLAB?
