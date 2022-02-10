@@ -21,7 +21,7 @@ in 12 sessions.(Feb 2022)
 The above topic have been chosen based on [TutorialsPoint](https://www.tutorialspoint.com/matlab/index.htm) and previous experiences.
 
 # Documents
-- [Slides](https://docs.google.com/presentation/d/1RdxVTrT4SOb0qR1IPfPoQx6mODhUblBtX6dCxV0ShnE/edit?usp=sharing) - This document will be updated routinely.
+- [Slides](https://docs.google.com/presentation/d/1kM5utFkiTXHGN7uQI49g-jfjunyUya0K627DAux5s7I/edit?usp=sharing) - This document will be updated routinely.
 - [Introduction to MATLAB for Engineering Students - Houcque (Notrhwestern University)](https://www.mccormick.northwestern.edu/documents/students/undergraduate/introduction-to-matlab.pdf)
 
 [Feedback](https://forms.gle/TPaV3FCgZZpKZxkRA)
